@@ -8,8 +8,8 @@
 Follow these steps:
 
 ```sh
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/PurnaSaradhi18/NeighborFit.git
+cd Neighbor-fit-project
 npm i
 npm run dev
 ```
